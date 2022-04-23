@@ -10,7 +10,9 @@ Clone repository and add your access token to the top of the .js scripts file re
 
 ## Future improvements:
 User to run program without task of creating own access token.
+<br>
 Add more dynamic components to the page that increases the user interaction.
+<br>
 Add routes and detailed popups for bus schedule.
 
 ###### MIT License
