@@ -1,4 +1,4 @@
-mapboxgl.accessToken = 'pk.eyJ1IjoibGxhZmFlbGUiLCJhIjoiY2wxamcxMTRwMHIzbDNjczYxeTZ3dnQ0cyJ9.KB2R0zEXQXjE_sOrnkmU-g';
+mapboxgl.accessToken = '#';
 
 var marker = [];
 var latCord = 0;
