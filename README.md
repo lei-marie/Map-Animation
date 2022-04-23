@@ -9,6 +9,7 @@ First must have own access token to implement into the code. Navigate to [MapBox
 Clone repository and add your access token to the top of the .js scripts file replacing the '#' in mapboxgl.accessToken = '#'. This should allow the code to run in browser as built. 
 
 ## Future improvements:
+User to run program without task of creating own access token.
 Add more dynamic components to the page that increases the user interaction.
 Add routes and detailed popups for bus schedule.
 
